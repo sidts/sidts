@@ -47,7 +47,6 @@ Atualmente em busca de uma **oportunidade de estágio em desenvolvimento de soft
 - 💼 LinkedIn: < linkedin.com/in/enricozoratto-44aa91316>
 - 📧 Email: <enrico.zoratto26@gmail.com>
 
----
 
 ⭐ Fique à vontade para explorar meus repositórios.  
 Estou sempre aberto a aprender, colaborar e evoluir como desenvolvedor.
