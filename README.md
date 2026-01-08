@@ -7,8 +7,6 @@
 Sou apaixonado por tecnologia e por transformar ideias em soluções práticas.  
 Gosto de aprender coisas novas, escrever código limpo e entender o *porquê* das coisas — não só fazer funcionar.
 
----
-
 ## 🎯 Objetivo Profissional
 
 Atualmente em busca de uma **oportunidade de estágio em desenvolvimento de software**, onde eu possa:
@@ -16,8 +14,6 @@ Atualmente em busca de uma **oportunidade de estágio em desenvolvimento de soft
 - Contribuir com código de qualidade  
 - Evoluir minhas habilidades técnicas e profissionais  
 - Crescer junto com o time e com o produto  
-
----
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -36,7 +32,6 @@ Atualmente em busca de uma **oportunidade de estágio em desenvolvimento de soft
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 
----
 
 ## 📚 Um pouco mais sobre mim
 
@@ -46,7 +41,6 @@ Atualmente em busca de uma **oportunidade de estágio em desenvolvimento de soft
 - Sempre buscando melhorar legibilidade, organização e manutenção do código  
 - Aberto a feedbacks e com muita vontade de aprender 🚀  
 
----
 
 ## 📫 Contato
 
